@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "specialty": "Haircut, Beard Trim",
+      "experience_years": 5,
+      "rating": 4.8,
+      "photo_url": "https://example.com/images/john_doe.jpg",
+      "available_times": [
+        "2024-11-26T09:00:00",
+        "2024-11-26T11:00:00",
+        "2024-11-26T14:00:00"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "specialty": "Haircut, Shave",
+      "experience_years": 7,
+      "rating": 4.9,
+      "photo_url": "https://example.com/images/jane_smith.jpg",
+      "available_times": [
+        "2024-11-26T10:00:00",
+        "2024-11-26T12:00:00",
+        "2024-11-26T15:00:00"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "specialty": "Haircut, Color",
+      "experience_years": 3,
+      "rating": 4.7,
+      "photo_url": "https://example.com/images/michael_johnson.jpg",
+      "available_times": [
+        "2024-11-26T08:00:00",
+        "2024-11-26T13:00:00",
+        "2024-11-26T16:00:00"
+      ]
+    }
+  ]
+  
